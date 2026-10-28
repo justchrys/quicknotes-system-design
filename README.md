@@ -17,7 +17,7 @@ Note: JSONPlaceholder does not really save changes. Created notes get a fake id 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/quicknotes-system-design.git
+   git clone https://github.com/justchrys/quicknotes-system-design.git
    ```
 2. Open the `quicknotes-system-design` folder.
 3. Open `index.html` in your browser, or right-click it in VS Code and choose **Open with Live Server**.
